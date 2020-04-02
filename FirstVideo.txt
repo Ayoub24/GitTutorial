@@ -1,0 +1,9 @@
+cd C:\Users\User\Documents\Git_tutorial
+
+git init
+
+git add FirstVideo
+
+manualy add the .gitignore file to the project directory
+
+git diff (check the changes details)
