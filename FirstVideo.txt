@@ -6,4 +6,4 @@ git add FirstVideo
 
 manualy add the .gitignore file to the project directory
 
-git diff (check the changes details)
+git diff (To check the changes details)
