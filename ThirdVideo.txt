@@ -1,0 +1,13 @@
+HEAD is a pointer on the branch or the commit you want to work with.
+
+By CHECKOUT command you can select a branch 
+
+Every time you finish working on a branch you merge it with the master 
+
+to create a branch 
+
+git branch branchName
+git checkout branchName
+
+OR:
+git checkout -b branchName
