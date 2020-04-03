@@ -11,3 +11,18 @@ git checkout branchName
 
 OR:
 git checkout -b branchName
+
+To See the merged branches:
+git branch --merged
+
+To See the non merged branches:
+git branch --no-merged
+
+To merge a branch:
+git merge branchName
+
+
+
+
+
+
