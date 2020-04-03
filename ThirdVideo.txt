@@ -18,14 +18,7 @@ git branch --merged
 To See the non merged branches:
 git branch --no-merged
 
-<<<<<<< HEAD
-=======
 To merge a branch:
 git merge branchName
 
-
-
-
-
->>>>>>> aayoub
 
