@@ -28,5 +28,4 @@ If you want to delete a non merged branch:
 git branch -D branchName
 
 To delete a branch from the repository:
-git push ayb :b2
-
+git push ayb :b3
